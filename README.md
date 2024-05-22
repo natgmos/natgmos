@@ -1,5 +1,6 @@
 Boas vindas ao meu perfil 💙💙
- meu nome gabriela
+
+meu nome gabriela
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
